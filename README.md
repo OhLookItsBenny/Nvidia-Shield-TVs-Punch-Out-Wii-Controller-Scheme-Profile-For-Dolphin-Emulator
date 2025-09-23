@@ -1,4 +1,4 @@
-<img width="561" height="802" alt="image" src="https://github.com/user-attachments/assets/2841166c-ed92-4578-8654-8cdbe420345e" /><img width="4120" height="5467" alt="Control scheme" src="https://github.com/user-attachments/assets/1196998c-c263-481a-9520-a56dd516d380" />
+<img width="4120" height="5467" alt="Control scheme" src="https://github.com/user-attachments/assets/1196998c-c263-481a-9520-a56dd516d380" />
 
 CREDITS
 
