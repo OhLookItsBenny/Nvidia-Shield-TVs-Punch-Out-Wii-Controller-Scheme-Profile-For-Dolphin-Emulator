@@ -49,3 +49,7 @@ B (Hold) - Back (As Wiimote's "B" trigger) (The same goes to this buton too)
 Start-Pause (As Wiimote's "+" button)
 
 Start (Hold) - Wii Menu (As Wiimote's "HOME" button)
+
+BUTTONS TEXTURE MOD PREVIEW:
+
+<img width="2880" height="2160" alt="aaaasas" src="https://github.com/user-attachments/assets/9f7630b9-bdf7-4afd-946c-01746e1ae3bc" />
