@@ -1,6 +1,6 @@
 <img width="4120" height="5467" alt="Control scheme" src="https://github.com/user-attachments/assets/1196998c-c263-481a-9520-a56dd516d380" />
 
-CREDITS
+CREDITS:
 
 Nintendo, Nvidia LightSpeed Studio (China) - Controller Scheme For Punch-Out!!
 
@@ -10,7 +10,7 @@ Nintendo, Nvidia LightSpeed Studio (China) - Controller Scheme For Punch-Out!!
 
 Specifically for XINPUT Controllers (Wired XBOX 360 Controller), DS4Windows is recommended if you have a wireless comtroller (PS4, PS5, Switch Pro, Etc...) or remap the profile as your controller's buttons.
 
-Profile installation instruction
+PROFILE INSTALLATION INSTRUCTION:
 
 1. Open Dolphin, select "file" on the top left and select "Open User Folder".
 
@@ -26,7 +26,7 @@ Profile installation instruction
 
 [OPTIONAL: If you want to play Head To Head with your friend locally, repeat step 5, but now it's for the "Wii Remote 2", for step 6, Load the "Nvidia Punch Out!! Wii Controller Player 2" profile. (The profile uses "XINPUT 1"}]
 
-Profile config
+PROFILE CONFIG CONTROLS:
 
 Left analog Stick/DPAD (As Wiimote's DPAD) -Dodge (Left, Right), Duck (Down), Block (Up)
 
