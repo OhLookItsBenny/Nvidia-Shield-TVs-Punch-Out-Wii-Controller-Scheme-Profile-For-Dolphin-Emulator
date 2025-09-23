@@ -1,4 +1,4 @@
-<img width="4120" height="5467" alt="Control scheme" src="https://github.com/user-attachments/assets/1196998c-c263-481a-9520-a56dd516d380" />
+<img width="561" height="802" alt="image" src="https://github.com/user-attachments/assets/2841166c-ed92-4578-8654-8cdbe420345e" /><img width="4120" height="5467" alt="Control scheme" src="https://github.com/user-attachments/assets/1196998c-c263-481a-9520-a56dd516d380" />
 
 CREDITS
 
@@ -25,3 +25,27 @@ Profile installation instruction
 7. Load the "Nvidia Punch Out!! Wii Controller" profile (The profile uses "XINPUT 0"} and you're done!
 
 [OPTIONAL: If you want to play Head To Head with your friend locally, repeat step 5, but now it's for the "Wii Remote 2", for step 6, Load the "Nvidia Punch Out!! Wii Controller Player 2" profile. (The profile uses "XINPUT 1"}]
+
+Profile config
+
+Left analog Stick/DPAD (As Wiimote's DPAD) -Dodge (Left, Right), Duck (Down), Block (Up)
+
+A/LB (As Wiimote's "1" button)- Left Hook
+
+B/RB (As Wiimote's "2" button)- Right Hook
+
+A/LB + Left analog Stick/DPAD Up - Left Jab
+
+B/RB + Left analog Stick/DPAD Up - Right Jab
+
+X/Y/LT/RT (As Wiimote's "-" button) - Star Punch
+
+A (Hold) - Enter (As Wiimote's "A" button) (I'm adding the "Hold" function to avoid conflict between "Star punch" and "Left Hook")
+
+Left analog Stick - Boxing glove motion cursor
+
+B (Hold) - Back (As Wiimote's "B" trigger) (The same goes to this buton too)
+
+Start-Pause (As Wiimote's "+" button)
+
+Start (Hold) - Wii Menu (As Wiimote's "HOME" button)
