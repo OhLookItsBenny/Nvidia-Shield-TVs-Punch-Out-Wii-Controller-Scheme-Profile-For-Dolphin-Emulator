@@ -1,5 +1,9 @@
 <img width="4120" height="5467" alt="Control scheme" src="https://github.com/user-attachments/assets/1196998c-c263-481a-9520-a56dd516d380" />
 
+
+TEST VIDEO AGAINST TD BALD BULL:
+[![Test Video](https://i.ytimg.com/vi/R4gh6VieO4s/maxresdefault.jpg)](https://youtu.be/R4gh6VieO4s)
+
 CREDITS:
 
 Nintendo, Nvidia LightSpeed Studio (China) - Controller Scheme For Punch-Out!!
