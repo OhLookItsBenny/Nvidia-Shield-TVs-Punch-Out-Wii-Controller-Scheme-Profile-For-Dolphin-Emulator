@@ -1,4 +1,5 @@
-<img width="4120" height="5467" alt="image" src="https://github.com/user-attachments/assets/2aa89fb5-213e-46c3-9fca-756108a97d55" />
+<img width="4120" height="5467" alt="image" src="https://github.com/user-attachments/assets/404c0ef6-074d-4aa0-8fdf-11fd03c59bf1" />
+
 
 
 TEST VIDEO AGAINST TD BALD BULL (OUTDATED VIDEO!!!!!!):
