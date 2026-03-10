@@ -1,7 +1,7 @@
-<img width="4120" height="5467" alt="Control scheme" src="https://github.com/user-attachments/assets/1196998c-c263-481a-9520-a56dd516d380" />
+<img width="4120" height="5467" alt="image" src="https://github.com/user-attachments/assets/2aa89fb5-213e-46c3-9fca-756108a97d55" />
 
 
-TEST VIDEO AGAINST TD BALD BULL:
+TEST VIDEO AGAINST TD BALD BULL (OUTDATED VIDEO!!!!!!):
 [![Test Video](https://i.ytimg.com/vi/R4gh6VieO4s/maxresdefault.jpg)](https://youtu.be/R4gh6VieO4s)
 
 CREDITS:
@@ -46,7 +46,7 @@ X/Y/LT/RT (As Wiimote's "-" button) - Star Punch
 
 A (Hold) - Enter (As Wiimote's "A" button) (I'm adding the "Hold" function to avoid conflict between "Star punch" and "Left Hook")
 
-Left analog Stick - Boxing glove motion cursor
+Right analog Stick - Boxing glove motion cursor
 
 B (Hold) - Back (As Wiimote's "B" trigger) (The same goes to this buton too)
 
